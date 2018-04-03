@@ -1,7 +1,7 @@
 # PiFlex
 8 bit greyscale camera using Raspberry Pi 2 model B
 
-This software is intended to replicate the experience of using a super/standard 8 camera.
+This project is intended to replicate the experience of using a super/standard 8 camera.
 
 I had long dreamed of creating a super 8 cartridge with a small digital image sensor and recording power cammed to the original camera's crank. I'm sure this is possible now using a raspberry Pi zero W, but as it was early 2015 when I began this project and the Pi W did not yet exist, I went in another direction and built an entire interchangeable lens cine camera with all realtime anamorphic desqueeze, focus peaking, multiple exposure, backwinding, trigger start/stop with cable release, intervalometer, fully uncompressed greyscale video and real mechanical controls for all the functions found on real super 8/standard 8 cameras. 
 
