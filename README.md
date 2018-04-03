@@ -48,7 +48,7 @@ It includes dedicated rotary switches for:
 - Viewfinder either recycled from an old VHS-C camcorder or a pair of video glasses (Kopin type) with composite input.
   I used a small aluminium plate with slots for cable ties to attach the viewfinder.
   
-  These hardware features are connected to the Pi by small pieces of stripboard with dupont pins, but I will get around to designing a proper Pi hat for this eventually.
+  Thes electronics - switches, rotaries etc are connected to the Pi by small pieces of stripboard with dupont pins, but I will get around to designing a proper Pi hat for this eventually.
   
   The camera operates on two 18650 cells and can be recharged during us with the addition of a seperate power control pcb.
   
